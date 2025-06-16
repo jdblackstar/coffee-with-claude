@@ -1,7 +1,7 @@
 [project]
 name = "coffee-with-claude"
 version = "0.1.0"
-description = "Add your description here"
+description = "Claude interviews other models"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
